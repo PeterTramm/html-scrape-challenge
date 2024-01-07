@@ -42,6 +42,6 @@ Project Link: [https://github.com/PeterTramm/html-scrape-challenge](https://gith
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Data obtain from Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910, https://doi.org/10.1175/JTECH-D-11-00103.1Links to an external site., measurements converted to metric in Pandas.
+* The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News website in November 2022. Images are used according to the JPL Image Use Policy, courtesy NASA/JPL-Caltech.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
