@@ -10,9 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>The goal of this project was to web scrape [mars data](https://static.bc-edx.com/data/web/mars_news/index.html) from a website and use it for data analysis.
-
-</p>
+The goal of this project was to web scrape [mars data](https://static.bc-edx.com/data/web/mars_news/index.html) from a website and use it for data analysis.
 
 ### Built With
 
