@@ -25,12 +25,14 @@ The goal of this project was to web scrape [mars data](https://static.bc-edx.com
 #### Part 1: Scrape Titles and Preview Text from Mars News
 - [x] Extract the titles and preview text of the news articles.
 
+- [x] Store the data into a python list.
+
 #### Part 2: Scrape and Analyse Mars Weather Data
-- [x] Create a Beautiful Soup object and use it to scrape the data in the HTML table
+- [x] Create a Beautiful Soup object and use it to scrape the data in the HTML table.
 
-- [x] Assemble the scraped data into a Pandas DataFrame
+- [x] Assemble the scraped data into a Pandas DataFrame.
 
-- [x] Analyse your dataset
+- [x] Analyse the dataset.
 
 <!-- CONTACT -->
 ## Contact
