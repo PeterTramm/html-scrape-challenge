@@ -14,7 +14,7 @@ The goal of this project was to web scrape [mars data](https://static.bc-edx.com
 
 ### Built With
 
-* Python
+* [Python](https://www.python.org/)
 * [splinter](https://splinter.readthedocs.io/en/stable/)
 * [bs4](https://pypi.org/project/beautifulsoup4/)
 * [Pandas](https://pandas.pydata.org/)
